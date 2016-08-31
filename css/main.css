@@ -5054,6 +5054,12 @@ button.swiper-pagination-bullet {
 .tours-activities-grid .tours-grid__item:hover .tours-activities-grid.tours-grid__item-header::after,
 .tours-activities-grid .selected .tours-grid__item-header::after{
   border-color: transparent;
+  box-shadow:transparent;
+}
+.tours-activities-grid .tours-grid__item:hover,
+.tours-activities-grid .tours-grid__item.selected {
+  background-color: #fff;
+  box-shadow: 0 transparent inset !important;
 }
 .tours-grid__item-price {
   background-color: rgba(0, 0, 0, 0.6);
