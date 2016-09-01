@@ -5041,9 +5041,9 @@ button.swiper-pagination-bullet {
 .tours-grid__item:hover .tours-grid__item-header::after,
 .selected .tours-grid__item-header::after {
   content: '';
-  border-color: #fd9b00;
+  /*border-color: #fd9b00;
   border-style: solid;
-  border-width: 4px 4px 0;
+  border-width: 4px 4px 0;*/
   position: absolute;
   top: 0;
   right: 0;
@@ -5059,7 +5059,24 @@ button.swiper-pagination-bullet {
 .tours-activities-grid .tours-grid__item:hover,
 .tours-activities-grid .tours-grid__item.selected {
   background-color: #fff;
-  box-shadow: 0 transparent inset !important;
+  box-shadow: none;
+}
+.tours-activities-main{
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+.tours-activities-main h1{
+  color: #004b8d;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 30px;
+  margin: 20px 0;
+}
+.tours-activities-main .tours-activities-top{
+  width: 60%;
+  text-align: justify;
+  color: #004b8d; 
+  margin: 0 auto;
 }
 .tours-grid__item-price {
   background-color: rgba(0, 0, 0, 0.6);
