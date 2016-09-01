@@ -5072,11 +5072,14 @@ button.swiper-pagination-bullet {
   font-size: 30px;
   margin: 20px 0;
 }
-.tours-activities-main .tours-activities-top{
+.tours-activities-top{
   width: 60%;
   text-align: justify;
   color: #004b8d; 
   margin: 0 auto;
+}
+.tours-activities-top .btn-notice{
+  background-color: #ff8201;
 }
 .tours-grid__item-price {
   background-color: rgba(0, 0, 0, 0.6);
@@ -5087,6 +5090,41 @@ button.swiper-pagination-bullet {
   position: absolute;
   bottom: 20px;
   left: 0;
+}
+.tours-activities-imgback{
+  background: #ccc;
+  background-image: url(../img/tours-back-01.jpg);
+  background-attachment: fixed;
+  background-color: #fff;
+  background-position: center top;
+  background-repeat: repeat-y;
+  background-size: cover;
+  height: 100%;
+  margin: 0 auto;
+  width: 100%;
+}
+.tours-activities-color{
+  background: rgba(7,40,76,0.7);
+  height: 100%;
+  color: #fff;
+  padding: 60px 0;
+  min-height: 465px;
+}
+.tours-activities-color h1{
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+.tours-activities-title{
+  text-align: center;
+  font-size: 25px;
+  margin:25px 0;
+}
+.tours-activities-color .tours-activities-top{
+  color: #fff;
+  width: 80%
+
 }
 .tours-grid__item-price--right {
   right: 0;
@@ -5908,7 +5946,7 @@ span.detailprice {
 }
 .tour-availability {
   border: 1px solid #d2d2d2;
-  background-color: #004b8e;
+  background-color: #fff;
   color: #fff;
   color: #8b8b8b;
   margin-bottom: 20px;
