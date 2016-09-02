@@ -2341,8 +2341,12 @@ li.ui-timepicker-selected .ui-timepicker-duration,
   }
   .page-header__top-section{
     width: 50%
+  } 
+}
+@media (max-width: 480px){
+  .tours-grid__item {
+    width: 100%;
   }
-
 }
 @media (min-width: 768px) {
   .top-contacts {
