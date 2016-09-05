@@ -5339,8 +5339,15 @@ button.swiper-pagination-bullet {
     position: relative;
     margin: 0 -15px;
 }
-
-
+.tours-activities-combo{
+  margin-bottom: 30px;
+  text-align: center;
+}
+.tours-activities-combo .tours-activities-form-field{
+  display: inline-block;
+  vertical-align: middle;
+}
+.tours-activities-combo 
 .arrow {width: 100%;position:relative;/* top: 32%; */left: 0%;z-index: 50;margin-top: 18%;}
 .arrow a {font-family: "Microsoft YaHei";font-size: 20px;/* font-weight: 700; */color: #fff;}
 .arrow-text {font-family: "Microsoft YaHei";font-size: 20px;/* font-weight: 700; */color: #fff;}
