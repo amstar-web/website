@@ -664,12 +664,12 @@ p {
 .content-ul {
   list-style: none;
   position: relative;
-  padding-left: 20px;
+  padding-left: 0px;
   margin: 10px 0;
 }
 .content-ul > li:before {
-  content: '\2022';
-  position: absolute;
+  /* content: '\2022'; */
+  /* position: absolute; */
   left: 0;
 }
 .nude-list {
@@ -1075,7 +1075,7 @@ button:focus {
   width: 100%;
 }
 .btn-primary {
-    background-color: #004b8e;
+    background-color: #fd9b00;
     /* border-radius: 5px; */
     color: #fff;
     padding: 10px 20px;
@@ -1083,7 +1083,7 @@ button:focus {
 }
 .btn-primary:hover,
 .btn-primary:focus {
-  background-color: #07284c;
+  background-color: #fcc034;
   color: #fff;
 }
 .btn-primary-round {
@@ -3630,7 +3630,7 @@ button.swiper-pagination-bullet {
     line-height: 14px;
 }
 .resultstext {
-    font-size: 14px;
+    font-size: 16px;
     color: #004b8d;
     font-weight: bold;
     text-transform: uppercase;
@@ -4477,6 +4477,15 @@ button.swiper-pagination-bullet {
   font-size: 23px;
   text-transform: uppercase;
 }
+.transfer-item__title {
+  border-bottom: 1px solid #dedede;
+  margin-top: 10px;
+  padding-bottom: 5px;
+  text-align: left;
+  color: #004b8d;
+  font-size: 23px;
+  text-transform: uppercase;
+}
 .transfer-item__note {
   font-size: 12px;
   padding: 5px 15px;
@@ -4500,6 +4509,10 @@ button.swiper-pagination-bullet {
 }
 .transfer-item__amount-label {
   font-size: 13px;
+}
+.transfer-item__icon {
+  margin-right: 20px;
+  color: #004b8d;
 }
 .transfer-item__amount {
   color: #004b8d;
