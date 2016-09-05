@@ -329,14 +329,11 @@
           </div>
             </div>
              <div class="cart-item">
-              <div class="cart-item__header"> <span class="cart-item__header-title">New customer </span> 
+              <div class="cart-item__header"> <span class="cart-item__header-title">Payment information</span> 
             </div></form>
                 <div class="form-section__description">The information below must match the billing address on file for your credit card</div>
    <div class="form-group-flex">
-
-
                 <div class="form-field">
-                  
                   <select id="security-number" name="#" class="form-control jqueryui-selectmenu">
                     <option disabled selected>Credit Card Type</option>
                     <option value="1">Option One</option>
@@ -357,7 +354,7 @@
 
                 <div class="form-field">
                   <label>*Valid Until</label>
-                <div class="form-field">
+                <div class="form-field form-small">
                 
                     <select id="valid-month" name="#" class="form-control jqueryui-selectmenu">
                       <option disabled selected>Month</option>
@@ -375,7 +372,7 @@
                       <option value="3">December</option>
                     </select>
                   </div>
-                  <div class="form-field">
+                  <div class="form-field form-small">
                     <select id="valid-year" name="#" class="form-control jqueryui-selectmenu ui-selectmenu-button">
                       <option disabled selected>Year</option>
                       <option value="1">1970</option>
@@ -390,16 +387,58 @@
                 </div>
                
                 </div>
+                    </div>
 
+  
+
+                 <div class="form-group-flex">
+                  <div class="form-field">
+                    <input type="text" placeholder="*Billing Address (Line 1)" class="form-control">
+                  </div>
+              
+                  <div class="form-field">
+                    <input type="text" placeholder="*City" class="form-control">
+                  </div>
+
+                  <div class="form-field">
+                    <select name="#" class="form-control jqueryui-selectmenu">
+                      <option disabled selected>*Country</option>
+                      <option value="1">Option One</option>
+                      <option value="2">Option Two</option>
+                      <option value="3">Option Three</option>
+                    </select>
+                  </div>
             
                 
               </div>
-            </div>
+               <div class="form-group-inline">
+                   <div class="form-field">
+                    <select name="#" class="form-control jqueryui-selectmenu">
+                      <option disabled selected>*State</option>
+                      <option value="1">Option One</option>
+                      <option value="2">Option Two</option>
+                      <option value="3">Option Three</option>
+                    </select>
+                  </div>
+                  <div class="form-field">
+                    <input id="area-code" type="text" placeholder="Area Code" class="form-control">
+                  </div>
+                  </div>
+                   <div class="form-group-inline">
+                   <div class="form-field center-terms">
+                <label class="form-field form-field--small form-checkbox form-checkbox--left">I agree to the <a href="./terms.html">Terms &amp; Conditions</a>
+                  <input type="checkbox"><span class="styled-checkbox styled-checkbox--left"></span>
+                </label>
+                </div>
+              </div>
+                  </div>
+
 
             <footer class="cart-actions">
            
-              <div class="form-group-inline cart-do-actions">
-              
+              <div class="form-group-inline check-out-actions">
+
+                           
                 <div class="form-field"><a href="./checkout.html" class="btn btn-notice">Check Out Now</a></div>
               </div>
             </footer>
@@ -416,7 +455,7 @@
                 <div class="cart-total__promotion-prefix">Promotion Applied:</div>
                 <div class="cart-total__promotion-label">Summer Special</div>
               </div>
-              <div class="cart-total__saving"> <span class="cart-total__saving-label">Saving </span>USD $ 150.00</div>
+            
               <div class="cart-total__label">Total (2 Items):</div>
               <div class="cart-total__amount">USD $ 433.00</div><a href="./checkout.html" class="btn btn-notice">Check Out Now</a>
             </div>
@@ -504,8 +543,8 @@
             </div>
           </div>    
       </div>
-      <div class=" page-section--narrow">
         <div class="section-header"> 
+      <div class=" page-section--narrow">
           <div class="section-header__title">You Can Check Also These Tours...</div>
         </div>
     <div class="tours-grid"><a href="./tour-details.html" class="tours-grid__item selected">
