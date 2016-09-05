@@ -366,8 +366,8 @@ th {
 }
 body {
   background-color: #f9f7f7;
-  color: #000;
-font-family: 'Roboto', sans-serif;
+  color: #616060;
+  font-family: 'Roboto', sans-serif;
   font-size: 1rem;
   line-height: 1.25;
 }
@@ -694,7 +694,7 @@ cite {
   text-align: right;
 }
 label {
-  color: #07284c;
+  color: #7b7b7b;
   display: block;
   font-size: 14px;
   line-height: 1.79;
@@ -706,7 +706,7 @@ label {
 }
 .form-control {
   border: 1px solid #d8d8d8;
-  color: #000;
+  color: #6d6a6a;
   font-size: 14px;
   line-height: 20px;
   padding: 5px 10px;
@@ -735,7 +735,7 @@ label {
   font-size: 12px;
 }
 .datepicker-control {
-  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAeCAMAAADjLDWuAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTExIDc5LjE1ODMyNSwgMjAxNS8wOS8xMC0wMToxMDoyMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjg0RkRCOTk1RDk4MzExRTVBQjRCQTlBNjEzN0JCQTIxIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjg0RkRCOTk2RDk4MzExRTVBQjRCQTlBNjEzN0JCQTIxIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6ODRGREI5OTNEOTgzMTFFNUFCNEJBOUE2MTM3QkJBMjEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6ODRGREI5OTREOTgzMTFFNUFCNEJBOUE2MTM3QkJBMjEiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz5cgih+AAAAdVBMVEVIYHtdcooZOFkaOVodO1wfPV5YboYIKU0UM1VFXnmrtsNne5EMLFAWNVcOLlFccYlwg5gJKk1sgJXCytP09vdbcYgXNVelsb4TMlTm6e2irrwkQWELK09zhpoKK06ImKm2wMrz9ff29/mDlKby9Pb///8HKExomXhdAAAAwklEQVR42szSWw+CIBjGcU6hmGmp2fno+/j9P2KwvICgtrrqP9ne7XfBQNj4OfYffqFaEAlNNu2mNe19B9YzYFbDVk+T73fwkdvP+TR1vhMKI6UpnE8ThR71pW9Y0ObVl+G5l68+jGfDVMlYqZg5j0PsC2CuADUHFr94JmS1knJVSZGl/Kj5oeK8OnB9THkPnNzVn4A+5dvd89dp2m2T++d5aVdW2hV7E95PE3qHdghqcQvfR5zve4q6/tP7f9tDgAEA9yt5d5v/OSAAAAAASUVORK5CYII=");
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAeCAIAAABbkFLLAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyppVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTMyIDc5LjE1OTI4NCwgMjAxNi8wNC8xOS0xMzoxMzo0MCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUuNSAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpFNTJCNzRGRDY5NDExMUU2QTY2N0U3NTM0REJEMDA4MCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpFNTJCNzRGRTY5NDExMUU2QTY2N0U3NTM0REJEMDA4MCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkU1MkI3NEZCNjk0MTExRTZBNjY3RTc1MzREQkQwMDgwIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkU1MkI3NEZDNjk0MTExRTZBNjY3RTc1MzREQkQwMDgwIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+dQPw5wAAAylJREFUeNrsVl1IFFEUvjOzsz/ubqvrrpmWuiEu2UYZlBhBJZIEIdZLRC+Bb2HQQ2I+RY9G9hgEBb1UGEEGgSH96EtQlkUu2oa1ru4Puv/uzv7N7tzO7JS66+5sE0gEXS7Dd+/9zrn3fHPOnSE4jkOb1ki0me1veI8m2LahMbL/8bQzKG4PBKABGUw2rhIbdV8MMLcmbIMfF9oN2gzG105Y4qlMQdcqOXV11EoRxCtfpL+l7sIR8w69Wsz79efWK+M2FE+dNG872mi8/PCt3mRkMC7oXU0QAbv3xtnW8TnvM5sHdhs8Zu7rtKwxuNyG+h7NuIJf3EHUex9dfHBzzMqJNiAADchgAoZgvn5Vln8ejM3VOoJAT3sOO/zR3vZd4rpf6miWkUR9paapWsdHmBtlvjJkz73uA6ZyFQ2akohIsJk0h0W8g2slTXEIw7sJxdmRSTt39/zaaj6dIg1qhV5Np7ObKmjqN5NPq5DJSBLMc/bOZ5WrBk+3VKgVf5DdQSZ5Z3pRNN8xjrM5+ZfOcJmsOCxohHlh2WxcMAlL6wm8Ya7upWv1nd33bXkFrF7bPOFYEjoAGH73Rt7P+wTC3PJK4bdS0vue7RU0SUAWtZqMGiUNMwcbDDCs1qm02aGltlxOkdLuGahs0DErFRayivsVNUWR3kii6/ZEzdDYB4cfXHNSbzFXKDbrCQOwukLOAF+tk/O+SDwF3eoMzrhDE5+daMH/ctbjCDBweUhTBmpKAIcaqwRwfHetANoaq6AOBrr2OnzMudadtRVlRauh2MJSOBFPpxsqNfP+aBktM2qVX5fC9dlLCg4Lew90WiBJYN7u4wlbdUoJysTYdIhJAYAnYACBaJLlMHQAIJSPSbqCMZgPx34SJJzdZNAIYF+dflWQ9QDCQpU5BAlnh3T+tBAAAE+IHQ77Zm45kmChAxDqqGQrenaNguaTHCFdmVwt52kGjYIiCQEIS9K9Y6SU8QFVbVHmSdT0K4tWQV7jDbG4dyU9Ou3uaK7JYGl/IhRBvphxo2z1FvU+3N1y5skUGplCotd6oTdIwGU/fGp/ia/2/7+lf977DwEGAMbcu2sY+AE2AAAAAElFTkSuQmCC");
   background-position: 100% 0;
   background-repeat: no-repeat;
   cursor: pointer;
@@ -747,9 +747,19 @@ label {
   width: 130px;
 }
 #security-number {
-  width: 145px !important;
+  width: 133px !important;
 }
+
 #area-code {
+  width: 167px !important;
+}
+#valid-month {
+  width: 100px !important;
+}
+#valid-year {
+  width: 100px !important;
+}
+#booking-number {
   width: 125px !important;
 }
 #sort-activity + .ui-selectmenu-button {
@@ -768,6 +778,10 @@ label {
 .form-field {
     margin-bottom: 10px;
     position: relative;
+}
+.center-terms {
+  text-align: center;
+  margin-left: 30%
 }
 .searchbox-tabs .form-field{
     margin-bottom: 10px;
@@ -1010,6 +1024,10 @@ input[type="radio"]:checked + .styled-radio:after {
 .form-group-inline .form-field:last-child {
   margin-right: 0;
 }
+.form-small{
+  width: 140px !important;
+  max-width: 100%;
+}
 .form-group-inline .form-field .form-control,
 .form-group-inline .form-field .ui-selectmenu-button {
   width: 240px !important;
@@ -1023,6 +1041,7 @@ input[type="radio"]:checked + .styled-radio:after {
   padding: 15px 25px;
 }
 .form-section__title {
+  margin-top: 18px;
   margin-bottom: 15px;
   text-transform: uppercase;
 }
@@ -1064,7 +1083,7 @@ button:focus {
 }
 .btn-primary:hover,
 .btn-primary:focus {
-  background-color: #004b8e;
+  background-color: #07284c;
   color: #fff;
 }
 .btn-primary-round {
@@ -1110,15 +1129,15 @@ button:focus {
   color: #fff;
 }
 .btn-gray {
-  background-color: #bebebe;
-  border-radius: 5px;
-  color: #07284c;
+  background-color: #fd9b00;
+  /* border-radius: 5px; */
+  color: #f9f9f9;
   padding: 10px 20px;
   text-transform: uppercase;
 }
 .btn-gray:hover,
 .btn-gray:focus {
-  background-color: #555;
+  background-color: #fcc034;
   color: #fff;
 }
 .btn-light-gray {
@@ -1242,7 +1261,7 @@ text-align: right;
 .ui-dialog-titlebar-close,
 .btn-close {
   background-color: #f9f9f9;
-  border: 2px solid #8b8b8b;
+  border: 1px solid #8b8b8b;
   border-radius: 50%;
   display: inline-block;
   padding: 0;
@@ -1675,6 +1694,18 @@ li.ui-timepicker-selected .ui-timepicker-duration,
   z-index: 102;
   display: none;
 }
+.ui-selectmenu-button-blue {
+    background-color: #004b8e;
+    border: 1px solid #004b8e;
+    display: inline-block;
+    /* color: white; */
+    overflow: hidden;
+    position: relative;
+    text-decoration: none;
+    cursor: pointer;
+    vertical-align: top;
+    width: 100% !important;
+}
 .ui-selectmenu-menu .ui-menu {
   border: 1px solid #999;
   border-top: 0;
@@ -1689,6 +1720,10 @@ li.ui-timepicker-selected .ui-timepicker-duration,
   max-height: 260px;
 }
 .ui-selectmenu-menu .ui-menu--gray {
+  background-color: #f3f3f3;
+  border: 0;
+}
+.ui-selectmenu-menu .ui-menu--blue {
   background-color: #f3f3f3;
   border: 0;
 }
@@ -1728,9 +1763,11 @@ li.ui-timepicker-selected .ui-timepicker-duration,
   display: block;
 }
 .ui-selectmenu-button {
-  background-color: #fff;
+  background-color: #ffffff;
   border: 1px solid #d8d8d8;
+  /* border: 1px solid #f9f7f7; */
   display: inline-block;
+  /* color: white; */
   overflow: hidden;
   position: relative;
   text-decoration: none;
@@ -1746,6 +1783,10 @@ li.ui-timepicker-selected .ui-timepicker-duration,
   background-color: #f4f4f4;
   border-color: transparent;
 }
+.form-control--searchbox + .white {
+  background-color: #f4f4f4;
+  border-color: transparent;
+}
 .ui-selectmenu-button span.ui-icon {
   width: 32px;
   position: absolute;
@@ -1754,12 +1795,11 @@ li.ui-timepicker-selected .ui-timepicker-duration,
 }
 .ui-selectmenu-button span.ui-icon:before {
   content:'\e9eb';
-  color: #072e4f;
+  color: #004b8e;
   font-family: 'amstar';
-
   position: absolute;
   right: 7px;
-  top: 2px;
+  top: 7px;
 }
 /*.ui-selectmenu-button span.ui-icon:after {
   content: '';
@@ -1771,7 +1811,7 @@ li.ui-timepicker-selected .ui-timepicker-duration,
   top: 10px;
 }*/
 .ui-selectmenu-button span.ui-selectmenu-text {
-  color: #004b8d;
+  color: #6d6a6a;
   font-size: 14px;
   line-height: 20px;
   padding: 5px 35px 5px 10px;
@@ -1795,8 +1835,8 @@ li.ui-timepicker-selected .ui-timepicker-duration,
   text-transform: none;
 }
 .ui-selectmenu-button--brand {
-  border-color: #07284c;
-  background-color: #07284c;
+    border-color: #ffffff;
+    background-color: #ffffff;
 }
 .ui-selectmenu-button--brand span.ui-icon {
   background-color: transparent;
@@ -1805,7 +1845,7 @@ li.ui-timepicker-selected .ui-timepicker-duration,
   border-top-color: #fff;
 }
 .ui-selectmenu-button--brand span.ui-selectmenu-text {
-  color: #fff;
+  color: #004b8e;
   text-transform: none;
 }
 /*!
@@ -1847,6 +1887,7 @@ li.ui-timepicker-selected .ui-timepicker-duration,
 @media (min-width: 1024px) {
   .form-tooltip {
     width: 25px;
+    font-weight: 100;
   }
 }
 .form-help-tooltip {
@@ -1870,7 +1911,7 @@ li.ui-timepicker-selected .ui-timepicker-duration,
 .tooltip-trigger {
   background-color: #f9f9f9;
   border-radius: 50%;
-  border: 2px solid #8b8b8b;
+  border: 1px solid #8b8b8b;
   color: #8b8b8b;
   cursor: default;
   display: inline-block;
@@ -1880,6 +1921,7 @@ li.ui-timepicker-selected .ui-timepicker-duration,
   text-align: center;
   vertical-align: middle;
   width: 20px;
+  font-weight: 300;
 }
 /*!
  * jQuery UI Dialog @VERSION
@@ -2342,7 +2384,11 @@ li.ui-timepicker-selected .ui-timepicker-duration,
   .page-header__top-section{
     width: 50%
   }
-
+}
+@media (max-width: 480px){
+  .tours-grid__item {
+    width: 100%;
+  }
 }
 @media (min-width: 768px) {
   .top-contacts {
@@ -3970,8 +4016,11 @@ button.swiper-pagination-bullet {
   border: 1px solid #d3d3d3;
   list-style: none;
   margin: 40px 0 25px;
-  padding: 10px 10px 0;
-  text-align: center;
+  padding: 10px 86px 0;
+  /* text-align: center; */
+}
+.customer-step a {
+  text-decoration: none;
 }
 .customer-step {
   display: inline-block;
@@ -4001,7 +4050,7 @@ button.swiper-pagination-bullet {
   right: 35px;
 }
 .customer-step__title {
-  display: inline-block;
+  /* display: inline-block; */
   vertical-align: middle;
 }
 .customer-step--current .customer-step__title {
@@ -4012,12 +4061,12 @@ button.swiper-pagination-bullet {
     border-radius: 50%;
     color: #fff;
     display: inline-block;
-    font-size: 19px;
-    font-weight: 700;
-    line-height: 58px;
+    font-size: 20px;
+    /* font-weight: 700; */
+    line-height: 32px;
     position: relative;
-    width: 25px;
-    height: 25px;
+    width: 30px;
+    height: 30px;
     text-align: center;
     vertical-align: middle;
 }
@@ -4025,21 +4074,20 @@ button.swiper-pagination-bullet {
 .customer-step__count--second {
   margin-left: 10px;
 }
-.customer-step__count--first::after,
-.customer-step__count--second::after {
-  content: '';
-  /* border-left: 16px solid #d2d2d2; */
-  /* border-top: 9px solid transparent; */
-  /* border-bottom: 9px solid transparent; */
-  /* position: absolute; */
-  /* top: calc(50% - 9px); */
-  /* left: calc(100% - 2px); */
+.customer-step__count--first::after, .customer-step__count--second::after {
+    content: '';
+    border-left: 7px solid #d2d2d2;
+    border-top: 7px solid transparent;
+    border-bottom: 7px solid transparent;
+    position: absolute;
+    top: calc(57% - 9px);
+    left: calc(100% - 2px);
 }
 .customer-step__count--first {
   background-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2016%2013%22%20height%3D%2213%22%20width%3D%2216%22%3E%3Cpath%20d%3D%22M2.5%204l4.167%204%206.333-8%203%201.95-9.333%2011.05-6.667-6.5z%22%20fill%3D%22%23fff%22%2F%3E%3C%2Fsvg%3E");
   background-position: 50%;
   background-repeat: no-repeat;
-  background-size: 35px auto;
+  background-size: 14px auto;
 }
 .customer-step--current .customer-step__count {
   background-color: #07284c;
@@ -4386,6 +4434,7 @@ button.swiper-pagination-bullet {
   border: 1px solid #dedede;
   cursor: pointer;
   margin-bottom: 20px;
+  background: white;
 }
 .transfer-item:hover {
   border-color: #fd9b00;
@@ -4408,6 +4457,14 @@ button.swiper-pagination-bullet {
   margin: 0 0 20px;
   text-transform: uppercase;
 }
+.transfer-item__title {
+  color: #07284c;
+  font-size: 20px;
+  line-height: 1;
+  margin: 0 0 20px;
+  text-transform: uppercase;
+}
+
 .transfer-item__column-two {
   position: relative;
 }
@@ -4416,6 +4473,9 @@ button.swiper-pagination-bullet {
   margin-top: 10px;
   padding-bottom: 5px;
   text-align: center;
+  color: #004b8d;
+  font-size: 23px;
+  text-transform: uppercase;
 }
 .transfer-item__note {
   font-size: 12px;
@@ -5037,7 +5097,7 @@ button.swiper-pagination-bullet {
 .tours-grid__item:hover,
 .tours-grid__item.selected {
   background-color: #fff;
-  /*box-shadow: 0 0 0 4px #fd9b00 inset;*/
+  box-shadow: 0 0 0 4px #fd9b00 inset;
 }
 .tours-grid__item-header {
   background-position: 50%;
@@ -5050,9 +5110,9 @@ button.swiper-pagination-bullet {
 .tours-grid__item:hover .tours-grid__item-header::after,
 .selected .tours-grid__item-header::after {
   content: '';
-  /*border-color: #fd9b00;
+  border-color: #fd9b00;
   border-style: solid;
-  border-width: 4px 4px 0;*/
+  border-width: 4px 4px 0;
   position: absolute;
   top: 0;
   right: 0;
@@ -5167,7 +5227,7 @@ button.swiper-pagination-bullet {
 }
 .tours-grid__item:hover .btn-notice,
 .tours-grid__item.selected .btn-notice {
-  background-color: #d78400;
+  background-color: #fcc034;
   color: #fff;
 }
 .tours-activities-grid .btn-notice{
@@ -5183,8 +5243,8 @@ button.swiper-pagination-bullet {
   font-size: 25px;
   margin-top: 15px;
 }
-.tours-activities-grid .tours-grid__item-price {
-  background: rgba(5,34,40,0.5);
+.tours-activities-grid .tours-grid__item-price{
+  background: none;
   bottom: inherit;
   width: 100%;
   text-align: center;
@@ -5210,7 +5270,7 @@ button.swiper-pagination-bullet {
   height: 285px;
 }
 .tours-activities-grid .tours-grid__item-price-active{
-  background:rgba(5,34,40,0.5);
+  background:rgba(5,34,40,0.8);
   height: 100%;
 }
 .tours-activities-grid .tours-grid__item-subtitle{
@@ -5785,7 +5845,7 @@ aside .b.op {
   }
 }
 .tour-gallery-section {
-  background-color: #f3f3f3;
+  background-color: #ffffff;
   padding: 0px;
   margin-bottom: 20px;
 }
@@ -5814,7 +5874,7 @@ aside .b.op {
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 10px;
+  padding: 0px;
   min-height: 330px;
 }
 span.details-from{
@@ -5968,7 +6028,7 @@ span.detailprice {
 }
 .tour-availability {
   border: 1px solid #d2d2d2;
-  background-color: #fff;
+  background-color: #ffffff;
   color: #fff;
   color: #8b8b8b;
   margin-bottom: 20px;
@@ -6137,7 +6197,27 @@ span.detailprice {
   }
 }
 .cart-item {
-  background-color: #f9f9f9;
+  background-color: #ffffff;
+  color: #5f5f5f;
+  margin-bottom: 20px;
+  padding: 15px 20px;
+  border: 1px solid #dbdbdb;
+}
+
+.cart-item__header {
+  /* background-color: #ffffff; */
+  border-bottom: 1px solid #fd9b00;
+  margin: 0 0px 10px;
+  padding: 4px 2px;
+}
+.checkout__header {
+  /* background-color: #ffffff; */
+  border-bottom: 1px solid #fd9b00;
+  margin: 0 0px 10px;
+  padding: 4px 2px;
+}
+.checkout-item {
+  background-color: #ffffff;
   color: #07284c;
   margin-bottom: 20px;
   padding: 15px 20px;
@@ -6145,7 +6225,7 @@ span.detailprice {
 .cart-item__header {
   background-color: #e9e9e9;
   margin: 0 -20px 10px;
-  padding: 5px 20px;
+  border: 1px solid #dbdbdb;
 }
 @media (min-width: 480px) {
   .cart-item__header {
@@ -6156,11 +6236,11 @@ span.detailprice {
 }
 .cart-item__header-title {
   -webkit-flex: 1 1 auto;
-      -ms-flex: 1 1 auto;
-          flex: 1 1 auto;
-  font-size: 24px;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  font-size: 22px;
   font-weight: 700;
-  padding-right: 15px;
+  padding-right: 10px;
 }
 .cart-item__subtotal {
   -webkit-flex: 0 0 auto;
@@ -6198,11 +6278,18 @@ span.detailprice {
             flex: 1 1 auto;
     text-align: right;
   }
+  .check-out-actions {
+    -webkit-flex: 1 1 auto;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    text-align: center;
+}
 }
 .cart-total {
-  background-color: #f9f9f9;
-  border: 3px solid #e9e9e9;
-  color: #07284c;
+  background-color: #ffffff;
+  border: 1px solid #dbdbdb;
+  /* border: 3px solid #e9e9e9; */
+  color: #5f5f5f;
   padding: 15px;
   text-align: center;
 }
@@ -6214,26 +6301,27 @@ span.detailprice {
   display: inline-block;
 }
 .cart-total__promotion-label {
-  color: #00ab10;
+  color: #e62d2d;
   display: inline-block;
 }
 .cart-total__saving {
   font-size: 18px;
-  font-weight: 700;
+  /* font-weight: 700; */
   margin-bottom: 20px;
 }
 .cart-total__saving-label {
-  color: #00ab10;
+  color: #e62d2d;
 }
 .cart-total__label {
   font-size: 18px;
-  font-weight: 700;
+  /* font-weight: 700; */
   margin-bottom: 10px;
 }
 .cart-total__amount {
   font-size: 28px;
   font-weight: 700;
   margin-bottom: 30px;
+  color: #004b8e;
 }
 .promo-code-form {
   margin-top: 10px;
