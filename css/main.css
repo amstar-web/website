@@ -5129,6 +5129,7 @@ button.swiper-pagination-bullet {
 .tours-activities-grid .tours-grid__item.selected {
   background-color: #fff;
   box-shadow: none;
+  box-shadow: 0 0 0 4px #fd9b00 inset;
 }
 .tours-activities-main{
   margin-top: 60px;
@@ -5248,6 +5249,7 @@ button.swiper-pagination-bullet {
   bottom: inherit;
   width: 100%;
   text-align: center;
+  background-color: rgba(0, 0, 0, 0.6);
 }
 .tours-grid__item-price.tours-grid-item-bottom {
   height: 100%;
