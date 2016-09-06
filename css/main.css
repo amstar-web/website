@@ -3554,6 +3554,17 @@ button.swiper-pagination-bullet {
     border-right: beige;
     border-right: 1px solid #bfc1c3;
 }
+.nolist{
+  list-style: none;
+
+}
+
+.results-noline {
+    float: left;
+    list-style: none;
+    padding: 8px 9px 0px 8px;
+    border-right: beige;
+}
 .resultstitle {
     float: left;
     list-style: none;
@@ -3635,6 +3646,8 @@ button.swiper-pagination-bullet {
     font-weight: bold;
     text-transform: uppercase;
 }
+
+.resultsline {background-color: #fd9b00; */width: 2;height: 44px;width: 1px;}
 .filtername{
     font-size: 10px;
     color: #919598;
@@ -3644,6 +3657,14 @@ button.swiper-pagination-bullet {
     font-size: 16px;
     color: #646769;
 
+}
+
+.roundtrip-icon {
+  /* float: left; */
+  /* font-size: 29px; */
+  color: #004b8d;
+  /* margin: -11px -5px 0px -15px; */
+  padding: 12px;
 }
 .activities-icon {
   /* float: left; */
@@ -4529,6 +4550,9 @@ button.swiper-pagination-bullet {
 }
 .transfer-item__button {
   width: 165px;
+  margin-top: 29px;
+  text-align: center;
+  margin-right: 88px;
 }
 .transfer-item__options {
   display: none;
@@ -5167,7 +5191,7 @@ button.swiper-pagination-bullet {
 .tours-grid__item:hover .tours-grid__item-header::after,
 .selected .tours-grid__item-header::after {
   content: '';
-  border-color: transparent;
+  border-color: #fd9b00;
   border-style: solid;
   border-width: 4px 4px 0;
   position: absolute;
@@ -5258,6 +5282,7 @@ button.swiper-pagination-bullet {
 .tours-activities-color .tours-activities-top{
   color: #fff;
   width: 80%;
+
 }
 .tours-grid__item-price--right {
   right: 0;
@@ -6712,11 +6737,11 @@ display: inline-block;
     font-size: 14px;
   }
   .filtername {
-    display: none;
+    /* display: none; */
 }
 
 .results {
-    padding: 3px 5px 0px 6px;
+    /* padding: 3px 5px 0px 6px; */
     border-right: 1px solid #bfc1c3;
 }
 .resultstitle {
@@ -6731,7 +6756,7 @@ display: inline-block;
     margin-left: -34px;
 }
 .filterresult {
-    font-size: 10px;
+    font-size: 12px;
 }
 .results-act {
     float: left;
